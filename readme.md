@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in data analysis and machine learning. So,I'm learning **Tensorflow**
 
-- 💬 Ask me about **Python, flask**
+- 💬 Ask me about **Python**
 
 - 📫 Feel free to reach me out **achuthanvis@gmail.com**
 
